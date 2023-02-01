@@ -24,6 +24,6 @@ To run input 1, do
 
 then
 
-`./exe input1.txt`.
+`./exe < input1.txt > output.txt`.
 
-Make appropriate changes to input files for other cities/distances.
+You then can view the output from running input1.txt against exe in output.txt. Make appropriate changes to input files for other cities/distances.
