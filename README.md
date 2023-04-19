@@ -1,6 +1,6 @@
 # Description
 
-Implements the Dijkstra's shotest path algorithm to find the shortest distance fom a source city to all other destination cities. Example input is given as follows:
+Implements the Dijkstra's shotest path algorithm to find the shortest distance from a source city to all other destination cities. Example input is given as follows:
 
 ```
 5
